@@ -8,7 +8,7 @@ def preamble():
         \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\
 <html xmlns=\http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\
         <head>\
-                <title> Micro 4F Semana </title>\
+                <title> Fisiopato Articulos </title>\
 		<link rel=\"stylesheet\" type=\"text/css\" href=\"styleA.css\" />\
 		<script type=\"text/javascript\" src=\"collapsible.js\"></script>\
         </head>\
