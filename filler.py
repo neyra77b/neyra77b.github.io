@@ -36,9 +36,13 @@ def fillRow(course, link):
   \t\t\t\n\
   \t\t</a>\n\
  	\t</td>\n\
+	\t<td>\n\
+  \t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"\">\n\
+  \t\t\t\n\
+  \t\t</a>\n\
+ 	\t</td>\n\
  	\t<td></td>\n\t</tr>\n"
 	return tableRowStr
-
 
 def main():
 	print(sys.argv[1])
@@ -72,6 +76,7 @@ def main():
 	\t<th>Tema</th>\n\
 	\t<th>Articulo (Drive)</th>\n\
 	\t<th>Articulo Traducido</th>\n\
+	\t<th>PPT de grupo expositor</th>\n\
 	\t<th>Bibliografia</th>\n\t</tr>\n"
 
 	# Order the keys of dictionary so we have 1 -> 13
@@ -96,7 +101,7 @@ def main():
 			finalStr += fillRow(c, driveLinks[driveCounter]) 	
 			driveCounter += 1
 		finalStr += "</table>\n" 
-	f = open("indexAuto.html", "w")
+	f = open("index.html", "w")
 	f.write(finalStr)
 
 	finalStr += "</div>\n\
