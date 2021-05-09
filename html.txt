@@ -1,0 +1,994 @@
+<h2> Semana 1 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Hiperplasia próstata</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Hiperplasia endometrio</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Atrofia testicular.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 2 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Displasia de cuello uterino</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>esófago de Barret.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>IMA</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cicatriz Queloide.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 3 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Apendicitis</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Meningitis</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Neumonía</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>tuberculosis.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 4 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Cáncer de Colon</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Carcinoma Basocelular</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cáncer de próstata.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cáncer de Mama</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>cáncer de estómago.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 5 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>PTl</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>CID</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>enfermedad de Von Willebrand</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Síndrome Antifosfolipídico</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 6 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>VIH/SIDA</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Good Pasture.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Lupus</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Artritis reumatoide.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 7 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Linfoma de Hodgkin</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Linfoma no Hodgkin.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Leucemia Mieloide Aguda</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Leucemia Linfoíde Crónica</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 9 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Kawasaki</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Poliarteritis nodosa</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Arteritis de Takayasu</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Wegener (GAP)</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Churg Strauss (GAPE)</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Poliangeitis microscópica</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 10 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Endocarditis</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Pericarditis</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Fiebre reumática</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Preeclampsia.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 11 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>EPOC</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Asma.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cáncer Bronco génico</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>epidermoide</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>adenocarcinoma</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>y de células</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 12 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Glomerulopatías: Membranosa</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Post-estreptocócica</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cambios Mínimos</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>ITU (cistitis/Pielonefritis)</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 13 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Hepatitis B</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Carcinoma Hepatocelular.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cirrosis Hepática</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Colitis ulcerativa</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Enfermedad de Crohn</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 14 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Prolactinoma</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Enfermedad de Graves</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Enfermedad de Hashimoto</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Bocio multinodular</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cáncer papilar de tiroides</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>Cáncer medular de</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
+<h2> Semana 15 </h2>
+<table>
+	<tr>
+		<th>Tema</th>
+		<th>Articulo (Drive)</th>
+		<th>Articulo Traducido</th>
+		<th>Bibliografia</th>
+	</tr>
+	<tr>
+		<td>Parkinson</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>ACV</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+	<tr>
+		<td>miastenia gravis.</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td>
+  		<a target="_blank" rel="noopener noreferrer" href="">
+  			(2020-2)
+  		</a>
+ 		</td>
+ 		<td></td>
+	</tr>
+</table>
