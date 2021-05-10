@@ -2,39 +2,51 @@ import sys
 import re
 from collections import defaultdict
 
+EMPTY_LINK = "(empty)"
+
+
 def preamble():
-	p1 = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\
-<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\
-        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\
-<html xmlns=\http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\
-        <head>\
-                <title> Fisiopato Articulos </title>\
-		<link rel=\"stylesheet\" type=\"text/css\" href=\"styleA.css\" />\
-		<script type=\"text/javascript\" src=\"collapsible.js\"></script>\
-        </head>\
-        <body>\
-		<center> <h1> Articulos de Fisiopato 2021-2 </h1> </center>"
-	announcement = "<div class=\"announcement\"> Sugerencias al link de Whatsapp: </div>"
+	p1 = "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n\
+<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n\
+        \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n\
+<html xmlns=\http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\
+        <head>\n\
+                <title> Fisiopato Articulos </title>\n\
+		<link rel=\"stylesheet\" type=\"text/css\" href=\"styleA.css\" />\n\
+		<script type=\"text/javascript\" src=\"collapsible.js\"></script>\n\
+        </head>\n\
+        <body>\n\
+		<center> <h1> Articulos de Fisiopato 2021-2 </h1> </center>\n"
+	announcement = "\t<div class=\"announcement\"> Sugerencias al link de Whatsapp: \n"
+	whatsapp = "\t<span class=\"contact_info\">\n\
+		\t\t<a class =\"whatsappinfo\" target=\"_blank\"\n\
+		\t\t\trel=\"noopener noreferrer\" href=\"https://wa.me/19098096441\"> Whatsapp </a>\n\
+    \t</span>\n\
+		\t</div>"
+	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
+	Lunes, Mayo 10, 2010 </span></span>"
 	p3 = "<div class=\"maincontent\">"
-	return p1 + announcement + p3
+	return p1 + announcement + whatsapp + updated + p3
 
 
 def fillWeekHdr(i):
 	return "<h2> Semana " + str(i) + " </h2>\n"
 
 
-def fillRow(course, link):	
-	tableRowStr = "\t<tr>\n\
+def fillRow(course, link, translatedLink):	
+	tableRowStr = "" 
+	tableRowStr += "\t<tr>\n\
 	\t<td>" + course + "</td>\n\
  	\t<td>\n\
   \t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"" + link + "\">\n\
   \t\t\tLink\n\
   \t\t</a>\n\
  	\t</td>\n\
- 	\t<td>\n\
-  \t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"\">\n\
-  \t\t\t\n\
-  \t\t</a>\n\
+ 	\t<td>\n"
+	if translatedLink != EMPTY_LINK:
+		tableRowStr += "\t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=" + translatedLink + ">\n\
+			\t\t\tLink Traducido\n"
+	tableRowStr += "\t\t</a>\n\
  	\t</td>\n\
 	\t<td>\n\
   \t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"\">\n\
@@ -77,7 +89,7 @@ def main():
 	\t<th>Articulo (Drive)</th>\n\
 	\t<th>Articulo Traducido</th>\n\
 	\t<th>PPT de grupo expositor</th>\n\
-	\t<th>Bibliografia</th>\n\t</tr>\n"
+	\t<th>Bibliografia de articulo </th>\n\t</tr>\n"
 
 	# Order the keys of dictionary so we have 1 -> 13
 	keyStr = weekDict.keys()
@@ -91,15 +103,21 @@ def main():
 	driveLinks = [x.strip() for x in drivesLinks if x != "\n"]	
 	#print(driveLinks)
 
+	# Open the translated links
+	translationsFile = open("translatedLinks.txt")
+	translatedLinks = translationsFile.readlines()
+	translationsFile.close()
+	translatedLinks = [x.strip() for x in translatedLinks if x != "\n"]	
+
 	# Create the HTML main tables	
-	driveCounter = 0
+	fileCounter = 0
 	finalStr = preamble()	
 	for i in keyInt:
 		finalStr += fillWeekHdr(i) 
 		finalStr += tableHdrStr
 		for c in weekDict[str(i)]:
-			finalStr += fillRow(c, driveLinks[driveCounter]) 	
-			driveCounter += 1
+			finalStr += fillRow(c, driveLinks[fileCounter], translatedLinks[fileCounter]) 	
+			fileCounter += 1
 		finalStr += "</table>\n" 
 	f = open("index.html", "w")
 	f.write(finalStr)

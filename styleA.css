@@ -18,10 +18,11 @@ ol, ul {
 
 
 /* Div Rules */
-	div.task {
-		margin-top: 0.5em;
-		margin-bottom: 0.5em;
-	}
+	.announcement {
+		font-family: monospace;
+	}	
+
+	
 /* End Div Rules */
 
 
@@ -46,10 +47,41 @@ ol, ul {
 /* End Table Rules */
 
 
+/* Span Rules */
+	.contact_info > a {
+	  color: #fff !important;
+	  border-radius: 40px;
+	  font-size: 10px;
+	  letter-spacing: 0.071em;
+	  line-height: 19px;
+	  padding: 4.5px 8px;
+	  text-transform: uppercase;
+	  white-space: nowrap;
+	  text-decoration: none;
+	}	
+
+	span.last_updated {
+		font-family: Arial;
+		font-size: small;
+		/* text-transform: uppercase; */
+		background-color: #fffdd4;
+	}	
+	
+/* End Span Rules 8/
+
+
 /* Link Rules */
 	a:hover{
 		color: red;
 	}
+
+	/* Whatsapp contact info. */
+ .whatsappinfo {
+   background-color: #01e675;
+ }
+ .whatsappinfo:hover {
+   background-color: #1b9a59;
+ }
 /* End Link Rules */
 
 /* Collapsible: Code from W3Schools */
