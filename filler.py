@@ -24,7 +24,7 @@ def preamble():
     \t</span>\n\
 		\t</div>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Domingo, Mayo 15, 2010 </span></span>"
+	Sabado, Mayo 15, 2010 </span></span>"
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + updated + p3
 
