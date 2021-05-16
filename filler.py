@@ -28,7 +28,6 @@ def preamble():
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + updated + p3
 
-
 def fillWeekHdr(i):
 	return "<h2> Semana " + str(i) + " </h2>\n"
 
@@ -109,16 +108,35 @@ def main():
 	translationsFile.close()
 	translatedLinks = [x.strip() for x in translatedLinks if x != "\n"]	
 
+
+	portfolioWeeks = [4, 7, 12, 15]
+	portfolioCounter = 0
+
 	# Create the HTML main tables	
 	fileCounter = 0
 	finalStr = preamble()	
+
+	# Adding in thte buttons for collapsible
+	finalStr += "\n<button type=\"button\" class=\"collapsible\"> Portafolio #" + str(portfolioCounter + 1) + "</button>"  
+	finalStr += "\n<div class=\"content\">\n"
 	for i in keyInt:
-		finalStr += fillWeekHdr(i) 
+		# This creates the table per week
+		finalStr += fillWeekHdr(i) 	
 		finalStr += tableHdrStr
 		for c in weekDict[str(i)]:
 			finalStr += fillRow(c, driveLinks[fileCounter], translatedLinks[fileCounter]) 	
 			fileCounter += 1
 		finalStr += "</table>\n" 
+	
+		if i == portfolioWeeks[portfolioCounter]:
+			finalStr += "</div>"
+			if portfolioCounter  + 1 < len(portfolioWeeks):
+				finalStr += "\n<button type=\"button\" class=\"collapsible\"> Portafolio #" + str(portfolioCounter + 1) + "</button>"  
+				finalStr += "\n<div class=\"content\">\n"
+
+			portfolioCounter += 1
+
+	
 	f = open("index.html", "w")
 	f.write(finalStr)
 
