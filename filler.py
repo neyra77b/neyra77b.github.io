@@ -24,7 +24,7 @@ def preamble():
     \t</span>\n\
 		\t</div>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Lunes, Mayo 10, 2010 </span></span>"
+	Domingo, Mayo 15, 2010 </span></span>"
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + updated + p3
 
@@ -111,6 +111,7 @@ def main():
 
 	portfolioWeeks = [4, 7, 12, 15]
 	portfolioCounter = 0
+	shownIndex = 2 #Portfolio that should be open
 
 	# Create the HTML main tables	
 	fileCounter = 0
@@ -129,12 +130,12 @@ def main():
 		finalStr += "</table>\n" 
 	
 		if i == portfolioWeeks[portfolioCounter]:
+			portfolioCounter += 1
 			finalStr += "</div>"
-			if portfolioCounter  + 1 < len(portfolioWeeks):
+			if portfolioCounter < len(portfolioWeeks):
 				finalStr += "\n<button type=\"button\" class=\"collapsible\"> Portafolio #" + str(portfolioCounter + 1) + "</button>"  
 				finalStr += "\n<div class=\"content\">\n"
 
-			portfolioCounter += 1
 
 	
 	f = open("index.html", "w")
