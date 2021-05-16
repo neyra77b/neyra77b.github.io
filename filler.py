@@ -47,11 +47,6 @@ def fillRow(course, link, translatedLink):
 			\t\t\tLink Traducido\n"
 	tableRowStr += "\t\t</a>\n\
  	\t</td>\n\
-	\t<td>\n\
-  \t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"\">\n\
-  \t\t\t\n\
-  \t\t</a>\n\
- 	\t</td>\n\
  	\t<td></td>\n\t</tr>\n"
 	return tableRowStr
 
@@ -87,8 +82,8 @@ def main():
 	\t<th>Tema</th>\n\
 	\t<th>Articulo (Drive)</th>\n\
 	\t<th>Articulo Traducido</th>\n\
-	\t<th>PPT de grupo expositor</th>\n\
-	\t<th>Bibliografia de articulo </th>\n\t</tr>\n"
+	\t<th>PPT de grupo expositor</th>\n"
+	#\t<th>Bibliografia de articulo </th>\n\t</tr>\n"
 
 	# Order the keys of dictionary so we have 1 -> 13
 	keyStr = weekDict.keys()
