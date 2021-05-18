@@ -16,7 +16,7 @@ def preamble():
 		<script type=\"text/javascript\" src=\"collapsible.js\"></script>\n\
         </head>\n\
         <body>\n\
-		<center> <h1> Articulos de Fisiopato 2021-2 </h1> </center>\n"
+		<center> <h1> Links pa los Portafolios 2021-2 </h1> </center>\n"
 	announcement = "\t<div class=\"announcement\"> Whatsapp: \n"
 	whatsapp = "\t<span class=\"contact_info\">\n\
 		\t\t<a class =\"whatsappinfo\" target=\"_blank\"\n\
