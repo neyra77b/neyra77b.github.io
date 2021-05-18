@@ -17,37 +17,43 @@ def preamble():
         </head>\n\
         <body>\n\
 		<center> <h1> Articulos de Fisiopato 2021-2 </h1> </center>\n"
-	announcement = "\t<div class=\"announcement\"> Sugerencias al link de Whatsapp: \n"
+	announcement = "\t<div class=\"announcement\"> Whatsapp: \n"
 	whatsapp = "\t<span class=\"contact_info\">\n\
 		\t\t<a class =\"whatsappinfo\" target=\"_blank\"\n\
 		\t\t\trel=\"noopener noreferrer\" href=\"https://wa.me/19098096441\"> Whatsapp </a>\n\
     \t</span>\n\
 		\t</div>"
+	translated = "\n<span> Se traducio los articulos con: https://www.onlinedoctranslator.com/es/ </span></br>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Sabado, Mayo 15, 2010 </span></span>"
+	Martes, Mayo 18, 2021 </span></span>"
 	p3 = "<div class=\"maincontent\">"
-	return p1 + announcement + whatsapp + updated + p3
+	return p1 + announcement + whatsapp + translated + updated + p3
 
 def fillWeekHdr(i):
 	return "<h2> Semana " + str(i) + " </h2>\n"
 
 
-def fillRow(course, link, translatedLink):	
+def fillRow(course, link, translatedLink, pdfLink):	
 	tableRowStr = "" 
 	tableRowStr += "\t<tr>\n\
 	\t<td>" + course + "</td>\n\
  	\t<td>\n\
   \t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"" + link + "\">\n\
-  \t\t\tLink\n\
+  \t\t\tArticulo\n\
   \t\t</a>\n\
  	\t</td>\n\
  	\t<td>\n"
 	if translatedLink != EMPTY_LINK:
 		tableRowStr += "\t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=" + translatedLink + ">\n\
-			\t\t\tLink Traducido\n"
+			\t\t\tTraducido\n"
 	tableRowStr += "\t\t</a>\n\
  	\t</td>\n\
- 	\t<td></td>\n\t</tr>\n"
+ 	\t<td>\n"
+	if pdfLink != EMPTY_LINK:
+		tableRowStr += "\t\t<a target=\"_blank\" rel=\"noopener noreferrer\" href=" + pdfLink + ">\n\
+			\t\t\tDiapos de exposicion"
+	tableRowStr += "\t\t</a>\n\
+	</td>\n\t</tr>\n"
 	return tableRowStr
 
 def main():
@@ -103,6 +109,11 @@ def main():
 	translationsFile.close()
 	translatedLinks = [x.strip() for x in translatedLinks if x != "\n"]	
 
+	# Open the Group PDFs
+	pdfFile = open("groupPDF.txt")
+	pdfLinks = pdfFile.readlines()
+	pdfFile.close()
+	pdfLinks = [x.strip() for x in pdfLinks if x != "\n"]
 
 	portfolioWeeks = [4, 7, 12, 15]
 	portfolioCounter = 0
@@ -120,7 +131,8 @@ def main():
 		finalStr += fillWeekHdr(i) 	
 		finalStr += tableHdrStr
 		for c in weekDict[str(i)]:
-			finalStr += fillRow(c, driveLinks[fileCounter], translatedLinks[fileCounter]) 	
+			finalStr += fillRow(c, driveLinks[fileCounter], 
+					translatedLinks[fileCounter], pdfLinks[fileCounter]) 	
 			fileCounter += 1
 		finalStr += "</table>\n" 
 	
@@ -129,8 +141,10 @@ def main():
 			finalStr += "</div>"
 			if portfolioCounter < len(portfolioWeeks):
 				finalStr += "\n<button type=\"button\" class=\"collapsible\"> Portafolio #" + str(portfolioCounter + 1) + "</button>"  
-				finalStr += "\n<div class=\"content\">\n"
-
+				if portfolioCounter == shownIndex - 1: 
+					finalStr += "\n<div class=\"content\" style=\"display:block\">\n"
+				else:	
+					finalStr += "\n<div class=\"content\">\n"
 
 	
 	f = open("index.html", "w")
