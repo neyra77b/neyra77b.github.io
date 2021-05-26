@@ -16,7 +16,7 @@ def preamble():
 		<script type=\"text/javascript\" src=\"collapsible.js\"></script>\n\
         </head>\n\
         <body>\n\
-		<center> <h1> Links pa los Portafolios 2021-2 </h1> </center>\n"
+		<center> <h1> Links pa los Portafolios 2021-1 </h1> </center>\n"
 	announcement = "\t<div class=\"announcement\"> Whatsapp: \n"
 	whatsapp = "\t<span class=\"contact_info\">\n\
 		\t\t<a class =\"whatsappinfo\" target=\"_blank\"\n\
@@ -25,7 +25,7 @@ def preamble():
 		\t</div>"
 	translated = "\n<span> Se traducio los articulos con: https://www.onlinedoctranslator.com/es/ </span></br>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Martes, Mayo 18, 2021 </span></span>"
+	Miercoles, Mayo 26, 2021 </span></span>"
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + translated + updated + p3
 
