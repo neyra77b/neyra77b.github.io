@@ -22,6 +22,9 @@ ol, ul {
 		font-family: monospace;
 	}	
 
+	.maincontent {
+		margin-bottom: 4em;
+	}
 	
 /* End Div Rules */
 
