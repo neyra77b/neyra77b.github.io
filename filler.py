@@ -25,12 +25,33 @@ def preamble():
 		\t</div>"
 	translated = "\n<span> Se traducio los articulos con: https://www.onlinedoctranslator.com/es/ </span></br>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Lunes, Junio 28, 2021 </span></span>"
+	Miercoles, Junio 30, 2021 </span></span>"
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + translated + updated + p3
 
-def fillWeekHdr(i):
-	return "<h2> Semana " + str(i) + " </h2>\n"
+
+
+def fillWeekHdr(i, portfolioCounter, nameList):
+	if portfolioCounter != 3:
+		return "<h2> Semana " + str(i) + " </h2>\n"
+	
+	weekHdr = "<div> <h2 style=\"display:inline-block\"> Semana " + str(i) + " </h2> <button id=\"btn" + str(i) + "\" class=\"citeButton\"> <span class=\"citeSpan\"> Citas de Articulos </span> </button></div>\n"			
+	
+	weekHdr += "<div id=\"myModal" + str(i) +"\" class=\"modal\">\n"
+	weekHdr += "<div class=\"modal-content\"> <span id=\"span" + str(i) + "\" class=\"close\">&times;</span>\n"
+
+	citationsFile = open("citations.txt")
+	citations = citationsFile.readlines()
+	citationsFile.close()
+	citations = [x.strip() for x in citations if x != "\n"]	
+
+
+	hardCodedP4 = [0, 5, 11]
+	for j in range(len(nameList)):
+		weekHdr += "<p><b>" + nameList[j] + "</b>:<br> " + citations[j + hardCodedP4[i - 13]] + "</p>"
+	
+	weekHdr += "</div></div>\n" 
+	return weekHdr	
 
 
 def fillRow(course, link, translatedLink, pdfLink):	
@@ -128,7 +149,7 @@ def main():
 	finalStr += "\n<div class=\"content\">\n"
 	for i in keyInt:
 		# This creates the table per week
-		finalStr += fillWeekHdr(i) 	
+		finalStr += fillWeekHdr(i, portfolioCounter, weekDict[str(i)]) 	
 		finalStr += tableHdrStr
 		for c in weekDict[str(i)]:
 			finalStr += fillRow(c, driveLinks[fileCounter], 
@@ -141,8 +162,10 @@ def main():
 			finalStr += "</div>"
 			if portfolioCounter < len(portfolioWeeks):
 				finalStr += "\n<button type=\"button\" class=\"collapsible\"> Portafolio #" + str(portfolioCounter + 1) + "</button>"  
-				if portfolioCounter == shownIndex - 1: 
+				if portfolioCounter == shownIndex - 1:
+					# Here goes the current portfolio
 					finalStr += "\n<div class=\"content\" style=\"display:block\">\n"
+					
 				else:	
 					finalStr += "\n<div class=\"content\">\n"
 

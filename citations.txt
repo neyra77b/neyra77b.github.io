@@ -1,0 +1,16 @@
+Yuen MF, Chen DS, Dusheiko GM, Janssen HLA, Lau DTY, Locarnini SA, Peters MG, Lai CL. Hepatitis B virus infection. Nat Rev Dis Primers. 2018 Jun 7;4:18035. doi: 10.1038/nrdp.2018.35. PMID: 29877316.
+Llovet JM, Kelley RK, Villanueva A, Singal AG, Pikarsky E, Roayaie S, Lencioni R, Koike K, Zucman-Rossi J, Finn RS. Hepatocellular carcinoma. Nat Rev Dis Primers. 2021 Jan 21;7(1):6. doi: 10.1038/s41572-020-00240-3. PMID: 33479224.
+Seitz HK, Bataller R, Cortez-Pinto H, Gao B, Gual A, Lackner C, Mathurin P, Mueller S, Szabo G, Tsukamoto H. Alcoholic liver disease. Nat Rev Dis Primers. 2018 Aug 16;4(1):16. doi: 10.1038/s41572-018-0014-7. Erratum in: Nat Rev Dis Primers. 2018 Aug 28;4(1):18. PMID: 30115921.
+Kobayashi T, Siegmund B, Le Berre C, Wei SC, Ferrante M, Shen B, Bernstein CN, Danese S, Peyrin-Biroulet L, Hibi T. Ulcerative colitis. Nat Rev Dis Primers. 2020 Sep 10;6(1):74. doi: 10.1038/s41572-020-0205-x. PMID: 32913180.
+Roda G, Chien Ng S, Kotze PG, Argollo M, Panaccione R, Spinelli A, Kaser A, Peyrin-Biroulet L, Danese S. Crohn's disease. Nat Rev Dis Primers. 2020 Apr 2;6(1):22. doi: 10.1038/s41572-020-0156-2. Erratum in: Nat Rev Dis Primers. 2020 Apr 6;6(1):26. Erratum in: Nat Rev Dis Primers. 2020 May 20;6(1):42. Erratum in: Nat Rev Dis Primers. 2020 Jun 19;6(1):51. PMID: 32242028.
+
+Chanson P, Maiter D. Prolactinoma. In: Melmed S, editor. The Pituitary. 4th ed. Cambridge, USA: Elsevier Academic Press; 2017. pp. 467–514.
+Davies TF, Andersen S, Latif R, Nagayama Y, Barbesino G, Brito M, Eckstein AK, Stagnaro-Green A, Kahaly GJ. Graves' disease. Nat Rev Dis Primers. 2020 Jul 2;6(1):52. doi: 10.1038/s41572-020-0184-y. PMID: 32616746.
+Ralli M, Angeletti D, Fiore M, D'Aguanno V, Lambiase A, Artico M, de Vincentiis M, Greco A. Hashimoto's thyroiditis: An update on pathogenic mechanisms, diagnostic protocols, therapeutic strategies, and potential malignant transformation. Autoimmun Rev. 2020 Oct;19(10):102649. doi: 10.1016/j.autrev.2020.102649. Epub 2020 Aug 15. PMID: 32805423.
+Knobel M. Etiopathology, clinical features, and treatment of diffuse and multinodular nontoxic goiters. J Endocrinol Invest. 2016 Apr;39(4):357-73. doi: 10.1007/s40618-015-0391-7. Epub 2015 Sep 21. PMID: 26392367.
+Dralle H, Machens A, Basa J, Fatourechi V, Franceschi S, Hay ID, Nikiforov YE, Pacini F, Pasieka JL, Sherman SI. Follicular cell-derived thyroid cancer. Nat Rev Dis Primers. 2015 Dec 10;1:15077. doi: 10.1038/nrdp.2015.77. PMID: 27188261.
+Drosten M, Pützer BM. Mechanisms of Disease: cancer targeting and the impact of oncogenic RET for medullary thyroid carcinoma therapy. Nat Clin Pract Oncol. 2006 Oct;3(10):564-74. doi: 10.1038/ncponc0610. PMID: 17019434.
+
+Poewe W, Seppi K, Tanner CM, Halliday GM, Brundin P, Volkmann J, Schrag AE, Lang AE. Parkinson disease. Nat Rev Dis Primers. 2017 Mar 23;3:17013. doi: 10.1038/nrdp.2017.13. PMID: 28332488.
+Campbell BCV, De Silva DA, Macleod MR, Coutts SB, Schwamm LH, Davis SM, Donnan GA. Ischaemic stroke. Nat Rev Dis Primers. 2019 Oct 10;5(1):70. doi: 10.1038/s41572-019-0118-8. PMID: 31601801.
+Gilhus NE, Tzartos S, Evoli A, Palace J, Burns TM, Verschuuren JJGM. Myasthenia gravis. Nat Rev Dis Primers. 2019 May 2;5(1):30. doi: 10.1038/s41572-019-0079-y. PMID: 31048702.
