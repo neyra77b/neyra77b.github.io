@@ -12,8 +12,9 @@ def preamble():
 <html xmlns=\http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n\
         <head>\n\
                 <title> Fisiopato Articulos </title>\n\
-		<link rel=\"stylesheet\" type=\"text/css\" href=\"styleA.css\" />\n\
-		<script type=\"text/javascript\" src=\"collapsible.js\"></script>\n\
+								<link rel=\"stylesheet\" type=\"text/css\" href=\"styleA.css\" />\n\
+								<script type=\"text/javascript\" src=\"collapsible.js\"></script>"
+	p1 += "<link rel=\"shortcut icon\" href=\"murillo.png\">\n\
         </head>\n\
         <body>\n\
 		<center> <h1> Links pa los Portafolios 2021-1 </h1> </center>\n"
@@ -25,7 +26,7 @@ def preamble():
 		\t</div>"
 	translated = "\n<span> Se traducio los articulos con: https://www.onlinedoctranslator.com/es/ </span></br>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Miercoles, Junio 30, 2021 </span></span>"
+	Miercoles, Junio 28, 2021 </span></span>"
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + translated + updated + p3
 
