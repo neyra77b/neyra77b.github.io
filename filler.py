@@ -14,7 +14,7 @@ def preamble():
                 <title> Fisiopato Articulos </title>\n\
 								<link rel=\"stylesheet\" type=\"text/css\" href=\"styleA.css\" />\n\
 								<script type=\"text/javascript\" src=\"collapsible.js\"></script>"
-	p1 += "<link rel=\"shortcut icon\" href=\"murillo2.png\">\n\
+	p1 += "<link rel=\"shortcut icon\" href=\"murillo.ico\">\n\
         </head>\n\
         <body>\n\
 		<center> <h1> Links pa los Portafolios 2021-1 </h1> </center>\n"
