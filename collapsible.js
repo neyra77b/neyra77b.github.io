@@ -1,6 +1,10 @@
-/* Javascript for collapsible */
-window.onload = function(){ 
-  var coll = document.getElementsByClassName("collapsible");
+//window.onload = function(){ 
+ // }
+
+
+window.onload = function() {
+	/* Javascript for collapsible */
+	var coll = document.getElementsByClassName("collapsible");
   var i;
   
   for (i = 0; i < coll.length; i++) {
@@ -14,10 +18,8 @@ window.onload = function(){
       }
     });
   }
-}
 
-
-window.onload = function() {
+	/* Javascript for Citations */
 	var modal13 = document.getElementById("myModal13");
 	var modal14 = document.getElementById("myModal14");
 	var modal15 = document.getElementById("myModal15");
