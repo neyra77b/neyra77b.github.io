@@ -26,7 +26,7 @@ def preamble():
 		\t</div>"
 	translated = "\n<span> Se traducio los articulos con: https://www.onlinedoctranslator.com/es/ </span></br>"
 	updated = "\n<span> Ultima actualizaci&oacute;n: <span class=\"last_updated\"> \
-	Viernes, Julio 2, 2021 </span></span>"
+	Domingo, Julio 4, 2021 </span></span>"
 	p3 = "<div class=\"maincontent\">"
 	return p1 + announcement + whatsapp + translated + updated + p3
 
