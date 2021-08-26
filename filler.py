@@ -139,7 +139,7 @@ def main():
 
 	portfolioWeeks = [4, 7, 12, 15]
 	portfolioCounter = 0
-	shownIndex = 4 #Portfolio that should be open
+	shownIndex = 1 #Portfolio that should be open
 
 	# Create the HTML main tables	
 	fileCounter = 0
@@ -147,7 +147,9 @@ def main():
 
 	# Adding in thte buttons for collapsible
 	finalStr += "\n<button type=\"button\" class=\"collapsible\"> Portafolio #" + str(portfolioCounter + 1) + "</button>"  
-	finalStr += "\n<div class=\"content\">\n"
+	#finalStr += "\n<div class=\"content\">\n"
+	#TODO: change with above line after portfolio 1
+	finalStr += "\n<div class=\"content\" style=\"display:block\">\n"
 	for i in keyInt:
 		# This creates the table per week
 		finalStr += fillWeekHdr(i, portfolioCounter, weekDict[str(i)]) 	
